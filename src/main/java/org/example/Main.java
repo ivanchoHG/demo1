@@ -15,5 +15,9 @@ public class Main {
             System.out.println("i = " + i);
 
         }
+        int num2 = 8;
+        int suma;
+        suma = num1 + num2;
+        System.out.println(suma);
     }
 }
